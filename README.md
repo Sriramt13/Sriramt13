@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-ram-teja-pinnamireddy-5b1053319">LinkedIn</a> •
+  <a href="https://sriramteja-portfolio.vercel.app/">Portfolio</a> •
   <a href="mailto:pinnamireddysriramteja@gmail.com">Email</a>
 </p>
 
@@ -48,7 +49,7 @@
 - Built an end-to-end ML pipeline using **Random Forest (80% accuracy)**
 - Performed **EDA, feature engineering, and data preprocessing**
 - Deployed using **Flask for real-time predictions**
-🔗 [View Project](#)
+🔗 [View Project](https://startup-success-predictor-55z6.onrender.com/)
 
 ---
 
@@ -56,21 +57,21 @@
 - AI-powered chatbot using **Flask + NLP + SQLite**
 - Implemented **intent classification & Named Entity Recognition (NER)**
 - Built REST APIs for seamless interaction  
-🔗 [View Project](#)
+🔗 [View Project](https://srt-bankbot.onrender.com/)
 
 ---
 
 ### ✈️ FlightFinder – Flight Booking UI
 - Frontend flight booking system using **React**
 - Dynamic UI with dummy flight data  
-🔗 [View Project](#)
+🔗 [View Project](https://flightfinder-eight.vercel.app/)
 
 ---
 
 ### 🎬 SRT CineLite – Movie Search Platform
 - React app using **external APIs**
 - Real-time search and dynamic rendering  
-🔗 [View Project](#)
+🔗 [View Project](https://sriramt13.github.io/SRT-CineLite-/)
 ---
 
 ## 📚 Currently Learning
@@ -79,14 +80,6 @@
 - 🧹 Clean Code & Debugging  
 - ⚙️ System Design Fundamentals  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
 
 ---
 
