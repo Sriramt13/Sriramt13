@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Ram Teja</h1>
-<h3 align="center">🚀 Full Stack Developer |WEB DEVELOPER| AI & ML Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sri-ram-teja-pinnamireddy-5b1053319">LinkedIn</a> •
