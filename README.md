@@ -89,6 +89,7 @@ AI system that detects phishing links and generates real-time risk scores.
 
 **Tech:** React.js • Node.js • Express • Python • Flask • Scikit-learn • MongoDB
 
+
 🔗 https://food-bridge-ai-rosy.vercel.app/ 
 
 ### BankBot
