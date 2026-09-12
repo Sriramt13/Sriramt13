@@ -80,25 +80,24 @@ I'm a Computer Science graduate passionate about building full-stack web applica
 
 AI-powered food redistribution platform connecting donors with NGOs through intelligent request management.
 
-**Tech:** Flask • Python • SQLite • AI
+**Tech:**  React.js • Node.js • Express • Python • Flask • Scikit-learn • Socket.IO • Leaflet • EmailJS • MongoDB
+🔗 https://food-bridge-ai-rosy.vercel.app/ 
+
+### FraudShield-AI
+
+AI system that detects phishing links and generates real-time risk scores.
+
+**Tech:** React.js • Node.js • Express • Python • Flask • Scikit-learn • MongoDB
+
+🔗 https://food-bridge-ai-rosy.vercel.app/ 
 
 ### BankBot
 
 AI-powered banking chatbot featuring NLP-based intent classification and Named Entity Recognition.
 
-**Tech:** Flask • NLP • SQLite • REST APIs
+**Tech:** Python • Flask • NLP • SQLite • REST APIs
 
 🔗 https://srt-bankbot.onrender.com/
-
----
-
-### FlightFinder
-
-Modern React-based flight booking interface with dynamic search and responsive UI.
-
-**Tech:** React • JavaScript
-
-🔗 https://flightfinder-eight.vercel.app/
 
 ---
 
